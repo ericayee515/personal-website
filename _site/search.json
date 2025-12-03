@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.23736119 0.22042553 0.88917527 0.76906334 0.87079938 0.30054376\n [7] 0.09363398 0.70426156 0.99166362 0.22312332"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Erica Yee",
@@ -26,5 +19,40 @@
     "title": "Erica Yee",
     "section": "Experience",
     "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "projects/02-project.html",
+    "href": "projects/02-project.html",
+    "title": "Project 2",
+    "section": "",
+    "text": "Some statistics project\n\nrnorm(100) |&gt; hist()"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Erica Yee",
+    "section": "",
+    "text": "Here is my Project 1"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Erica Yee",
+    "section": "",
+    "text": "Here is my Project 1"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Erica Yee",
+    "section": "Project 2",
+    "text": "Project 2\nHere is my Project 2"
+  },
+  {
+    "objectID": "projects/01-project.html",
+    "href": "projects/01-project.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "Some statistics project\n\nrunif(10)\n\n [1] 0.9275735 0.9905136 0.7339211 0.9001362 0.4118982 0.2997445 0.7071227\n [8] 0.6132335 0.5006189 0.2864301"
   }
 ]

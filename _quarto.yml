@@ -7,9 +7,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: Information
+      - href: projects.qmd
+        text: Projects
 
+page-footer:
+  right: "&copy; 2025, Erica Yee"
+  
 format:
   html:
     theme:
