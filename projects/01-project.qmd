@@ -1,5 +1,7 @@
 ---
-title: Project 1
+title: Modeling Injury Risk in MLB Pitchers
+subtitle: STATS140XP Statistical Consulting Project
+image: images/baseball-data.jpg
 ---
 
 Some statistics project

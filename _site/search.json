@@ -21,38 +21,24 @@
     "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
   },
   {
+    "objectID": "projects/01-project.html",
+    "href": "projects/01-project.html",
+    "title": "Modeling Injury Risk in MLB Pitchers",
+    "section": "",
+    "text": "Some statistics project\n\nrunif(10)\n\n [1] 0.2057466 0.8275191 0.2900424 0.9953945 0.8347732 0.2399636 0.9615511\n [8] 0.1968744 0.3743572 0.4482240"
+  },
+  {
     "objectID": "projects/02-project.html",
     "href": "projects/02-project.html",
-    "title": "Project 2",
+    "title": "California Wildfires Research",
     "section": "",
-    "text": "Some statistics project\n\nrnorm(100) |&gt; hist()"
+    "text": "rnorm(100) |&gt; hist()"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Erica Yee",
     "section": "",
-    "text": "Here is my Project 1"
-  },
-  {
-    "objectID": "projects.html#project-1",
-    "href": "projects.html#project-1",
-    "title": "Erica Yee",
-    "section": "",
-    "text": "Here is my Project 1"
-  },
-  {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Erica Yee",
-    "section": "Project 2",
-    "text": "Project 2\nHere is my Project 2"
-  },
-  {
-    "objectID": "projects/01-project.html",
-    "href": "projects/01-project.html",
-    "title": "Project 1",
-    "section": "",
-    "text": "Some statistics project\n\nrunif(10)\n\n [1] 0.9275735 0.9905136 0.7339211 0.9001362 0.4118982 0.2997445 0.7071227\n [8] 0.6132335 0.5006189 0.2864301"
+    "text": "The following are projects I have worked on during my time at UCLA:\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nModeling Injury Risk in MLB Pitchers\n\n\nSTATS140XP Statistical Consulting Project\n\n\n\n\n\n\n\n\n\n\n\n\nCalifornia Wildfires Research\n\n\nDigital Humanities 101 Project\n\n\n\n\n\nNo matching items"
   }
 ]

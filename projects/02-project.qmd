@@ -1,8 +1,9 @@
 ---
-title: Project 2
+title: California Wildfires Research
+subtitle: Digital Humanities 101 Project
+image: images/wildfires.png
 ---
 
-Some statistics project
 
 ```{r}
 rnorm(100) |> hist()
