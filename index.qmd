@@ -13,20 +13,19 @@ about:
     - icon: inbox-fill
       text: Email
       url: "mailto:ericayee@g.ucla.edu"
-    - text: Resume
-      url: "resume.pdf"
+    - text: CV
+      url: "cv.pdf"
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+Hello! I'm a current 4th year at UCLA majoring in Statistics and Data Science with a minor in Digital Humanities. I am pursuing a career in tech and am interested in any roles pertaining to data and product. In my free time, I enjoy exploring cafes and restaurants, working out, and dancing. 
+
+On this site you can find a list of my projects, my CV, and my resume.
 
 ## Education
 
-University of California, San Diego \| San Diego, CA PhD in Mathematics \| Sept 2011 - June 2015
+University of California, Los Angeles \| Los Angeles, CA B.S. in Statistics and Data Science \| Sept 2022 - June 2026
 
-Macalester College \| St. Paul, MN B.A in Economics \| Sept 2007 - June 2011
 
 ## Experience
 
-Wengo Analytics \| Head Data Scientist \| April 2018 - present
-
-GeoScynce \| Chief Analyst \| Spet 2012 - April 2018
+Northrop Grumman Corporation \| Material Cost Management Intern \| June 2024 - October 2024

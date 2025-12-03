@@ -1,23 +1,23 @@
 project:
   type: website
+  resources:
+  - resume.pdf
+  - cv.pdf
 
 website:
   title: "Erica Yee"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: projects.qmd
         text: Projects
-        
-page-footer:
-  right: "&copy; 2025, Erica Yee"
+  page-footer:
+    right: "&copy; 2025, Erica Yee"
   
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: [sandstone, _variables.scss]
     css: styles.css
     toc: true
 
