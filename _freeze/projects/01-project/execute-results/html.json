@@ -1,11 +1,9 @@
 {
-  "hash": "99a25de5989bd9f87e2b0b407bdffda1",
+  "hash": "fe874b5d4411d3d903022eff62893cec",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: Modeling Injury Risk in MLB Pitchers\nsubtitle: STATS140XP Statistical Consulting Project\nimage: images/baseball-data.jpg\n---\n\nSome statistics project\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrunif(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] 0.2057466 0.8275191 0.2900424 0.9953945 0.8347732 0.2399636 0.9615511\n [8] 0.1968744 0.3743572 0.4482240\n```\n\n\n:::\n:::\n\n",
-    "supporting": [
-      "01-project_files"
-    ],
+    "markdown": "---\ntitle: Modeling Injury Risk in MLB Pitchers\nsubtitle: STATS140XP Statistical Consulting Project\nimage: images/baseball-data.jpg\n---\n\n{{< embedpdf.embed \"Users/ericayee/Downloads/typst.pdf\" >}}\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrunif(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] 0.07686789 0.28729488 0.47788824 0.58226141 0.19590346 0.54075766\n [7] 0.87215239 0.65906857 0.33633051 0.04627439\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

@@ -4,35 +4,35 @@
     "href": "index.html",
     "title": "Erica Yee",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+    "text": "Hello! I’m a current 4th year at UCLA majoring in Statistics and Data Science with a minor in Digital Humanities. I am pursuing a career in tech and am interested in any roles pertaining to data and product. In my free time, I enjoy exploring cafes and restaurants, working out, and dancing.\nOn this site you can find a list of my projects, my CV, and my resume."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Erica Yee",
     "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S. in Statistics and Data Science | Sept 2022 - June 2026"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Erica Yee",
     "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+    "text": "Experience\nNorthrop Grumman Corporation | Material Cost Management Intern | June 2024 - October 2024"
   },
   {
     "objectID": "projects/01-project.html",
     "href": "projects/01-project.html",
     "title": "Modeling Injury Risk in MLB Pitchers",
     "section": "",
-    "text": "Some statistics project\n\nrunif(10)\n\n [1] 0.2057466 0.8275191 0.2900424 0.9953945 0.8347732 0.2399636 0.9615511\n [8] 0.1968744 0.3743572 0.4482240"
+    "text": "See Our Poster"
   },
   {
     "objectID": "projects/02-project.html",
     "href": "projects/02-project.html",
     "title": "California Wildfires Research",
     "section": "",
-    "text": "rnorm(100) |&gt; hist()"
+    "text": "Visit our UCLA HumSpace website here\n\nrnorm(100) |&gt; hist()"
   },
   {
     "objectID": "projects.html",

@@ -3,6 +3,7 @@ project:
   resources:
   - resume.pdf
   - cv.pdf
+  - projects/typst.pdf
 
 website:
   title: "Erica Yee"
@@ -20,7 +21,7 @@ format:
     theme: [sandstone, _variables.scss]
     css: styles.css
     toc: true
-
+poster-format-name:
 execute: 
   freeze: auto 
 

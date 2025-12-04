@@ -4,6 +4,7 @@ subtitle: Digital Humanities 101 Project
 image: images/wildfires.png
 ---
 
+Visit our UCLA HumSpace website [here](https://bigfireseverywhere.humspace.ucla.edu/)
 
 ```{r}
 rnorm(100) |> hist()
