@@ -2,7 +2,7 @@
 title: "Erica Yee"
 about:
   template: trestles
-  image: prof_pic.png
+  image: Erica_Yee.Headshot.jpeg
   links:
     - icon: linkedin
       text: LinkedIn
