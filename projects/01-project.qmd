@@ -4,4 +4,4 @@ subtitle: STATS140XP Statistical Consulting Project
 image: images/baseball-data.jpg
 ---
 
-[See Our Poster](typst.pdf)
+[See Our Poster](STATS140 PRESENTATION.pdf)
