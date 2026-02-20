@@ -15,7 +15,7 @@ listing:
     categories: false
 ---
 
-**The following are projects I have worked on during my time at UCLA:**
+**The following are some of the projects I have worked on during my time at UCLA:**
 
 :::project-listing
 :::
